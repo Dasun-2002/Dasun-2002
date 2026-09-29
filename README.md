@@ -1,56 +1,274 @@
-<h1 align="center">Hi there, I'm Dasun! 👋</h1>
-<h3 align="center">Software Engineering Undergraduate | Full-Stack Web & Mobile Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Dasun-2002">
-    <img src="https://komarev.com/ghpvc/?username=Dasun-2002&label=Profile%20views&color=0e75b6&style=flat" alt="Dasun-2002" />
-  </a>
+# Hi, I'm Dasun Dulanjaya 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Web+Developer;Mobile+Application+Developer;Java+%7C+Spring+Boot+%7C+React+Native;Founder+of+Dr+Software" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Dasun-2002">
+  <img src="https://komarev.com/ghpvc/?username=Dasun-2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```java
+public class Dasun {
+
+    String name = "Dasun Dulanjaya";
+    String role = "Software Engineering Undergraduate";
+    String location = "Sri Lanka 🇱🇰";
+
+    String[] interests = {
+        "Full-Stack Development",
+        "Mobile App Development",
+        "Enterprise Java",
+        "Software Architecture"
+    };
+
+    String currentFocus =
+        "Building scalable web and mobile applications";
+
+    boolean openToOpportunities = true;
+}
+```
+
+- 🎓 Software Engineering Undergraduate at **Birmingham City University** and **Java Institute for Advanced Technology**
+- 💼 Founder of **Dr Software**
+- 💻 Interested in **Full-Stack Web Development, Mobile Development & Enterprise Software**
+- ☕ Strong focus on **Java, Spring Boot, Hibernate, Servlets & Java EE**
+- 📱 Building cross-platform mobile applications with **React Native**
+- 🌐 Experience building modern web applications using **JavaScript, PHP & REST APIs**
+- 🗄️ Working with **MySQL, PostgreSQL, Firebase & Firestore**
+- 🚀 Passionate about developing practical, scalable and user-friendly software
+- 🌱 Continuously learning modern software engineering technologies and best practices
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Bookify POS
+
+A sales and inventory management solution designed to simplify day-to-day business operations.
+
+**Key Areas**
+
+- Sales Management
+- Product Management
+- Inventory Management
+- Customer Management
+- Database Integration
+
+---
+
+### 🍔 SmartBurger
+
+A modern mobile commerce application for ordering food and managing customer purchases.
+
+**Technologies**
+
+`Android` `Java` `Firebase` `Firestore` `PayHere`
+
+**Features**
+
+- User Authentication
+- Product Browsing
+- Shopping & Ordering
+- Online Payments
+- Firebase Integration
+
+---
+
+### 💬 FreeChat
+
+A real-time cross-platform messaging application built using React Native and a Java backend.
+
+**Technologies**
+
+`React Native` `Expo` `Java` `WebSocket` `MySQL`
+
+**Features**
+
+- User Registration
+- Real-time Messaging
+- Friend Management
+- Profile Management
+- Status Updates
+- WebSocket Communication
+
+---
+
+### 🛒 Smart Trade
+
+A full-stack e-commerce web application developed using Java technologies.
+
+**Technologies**
+
+`Java` `Servlets` `Hibernate` `MySQL` `JavaScript`
+
+**Features**
+
+- User Authentication
+- Product Management
+- Shopping Cart
+- Product Search
+- Email Verification
+- Dynamic Product Pages
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,php,html,css" />
+
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+
+</p>
+
+`Java EE` `Servlets` `JSP` `Hibernate` `EJB` `REST API` `WebSocket`
+
+### 📱 Mobile Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio" />
+
+</p>
+
+`React Native` `Expo` `Android`
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+
+</p>
+
+### 🎨 Frontend & Styling
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,javascript" />
+
+</p>
+
+### 🧰 Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman" />
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 📊 GitHub Analytics
 
-- 🎓 Software Engineering undergraduate at **Birmingham City University** & **Java Institute for Advanced Technology**.
-- 💼 Founder of **Dr Software**, providing web, mobile, and software consultancy services.
-- 🚀 Currently working on full-stack Java/PHP applications and cross-platform mobile apps using React Native.
-- 💡 Notable Projects: **Bookify POS** (Sales Management) & **SmartBurger** (M-Commerce).
-- 📫 How to reach me: **[dasundulanjaya01@gmail.com]**
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dasun-2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-### 🛠️ Languages and Tools
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dasun-2002&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <!-- Spring Boot -->
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <!-- React Native -->
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <!-- Firebase -->
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasun-2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dasun-2002&show_icons=true&theme=radical" alt="Dasun's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasun-2002&theme=radical" alt="Dasun's GitHub Streak" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dasun-2002&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dasun-2002/Dasun-2002/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+☕ Advanced Java & Spring Boot
+🌐 Full-Stack Web Development
+📱 React Native Mobile Applications
+🏗️ Enterprise Application Development
+🔌 REST APIs & WebSocket Systems
+🗄️ Database Design & Optimization
+🧠 Software Architecture & Design Patterns
+```
+
+---
+
+## 💼 What I Can Work With
+
+| Area | Technologies |
+|---|---|
+| Backend | Java, Spring Boot, Java EE, Servlets, Hibernate, EJB |
+| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Mobile | React Native, Expo, Android |
+| Databases | MySQL, PostgreSQL, Firebase, Firestore |
+| APIs | REST API, WebSocket |
+| Tools | Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA |
+| Deployment | GlassFish, Firebase, Web Hosting |
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dasun-2002">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building ideas into real-world software."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
